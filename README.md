@@ -1,21 +1,31 @@
-# App made to train react & redux
+# Throne of Games
 
-This project was made using the RAWG.IO API to fetch data. And display them in a beautiful way.
+#### Table of Contents
 
-## What was hard
+-   [Functionnalities](#functionnalities)
+-   [Tech](#tech)
+-   [Deploy](#deploy)
 
-Getting used to redux.
+---
 
-## Screenshots of the project
+## Creator
+- <a href="https://github.com/Shikibata">Loïc Henrottin<a/>
 
-![](../../../../var/folders/gs/trl6bpdd5pn6nctwrc8h0sl00000gn/T/TemporaryItems/NSIRD_screencaptureui_lWWAUc/Screenshot 2022-11-30 at 16.26.33.png)
+## Description
+A website app to look at your favorite games and explore new ones.
 
-![](../../../../var/folders/gs/trl6bpdd5pn6nctwrc8h0sl00000gn/T/TemporaryItems/NSIRD_screencaptureui_ylT7dv/Screenshot 2022-11-30 at 16.27.10.png)
+## Functionnalities
+A basic list of functionality the app has:
+- User can search for a game
+- User can look for a single a game
+- User can look at the trendiest game, newest game & upcoming games
 
-## Improvement
+### Techs
+- React
+- Redux
+- Framer-Motion
+- Styled-Components
 
-Fixes refresh problems.
-
-## Improvement
-
-https://ornate-gumption-d34b97.netlify.app/
+## Deploy
+ Deployed on Vercel [https://throne-of-games.vercel.app/home](https://throne-of-games.vercel.app/home)
+ 
